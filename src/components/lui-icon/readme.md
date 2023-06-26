@@ -9,12 +9,6 @@ Lite UI supports the following icons.
 <!-- Auto Generated Below -->
 
 
-## Properties
-
-| Property | Attribute | Description     | Type     | Default     |
-| -------- | --------- | --------------- | -------- | ----------- |
-| `name`   | `name`    | The icon name   | `string` | `undefined` |
-| `family` | `family`  | The icon family | `string` | `undefined` |
-
-
 ----------------------------------------------
+
+*Built with [StencilJS](https://stenciljs.com/)*
